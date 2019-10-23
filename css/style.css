@@ -1,0 +1,14 @@
+#formContainer {
+  background-color: lightblue;
+}
+
+#outputContainer {
+  background-color: lightyellow;
+  padding: 20px;
+}
+
+#outputInner {
+  background-color: white;
+  padding: 10px;
+}
+/*# sourceMappingURL=style.css.map */
