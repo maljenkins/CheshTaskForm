@@ -1,13 +1,26 @@
+body {
+  color: white;
+}
+
 #formContainer {
-  background-color: lightblue;
+  background-color: #092b4c;
+  label {
+    width: 100%;
+  }
 }
 
 #outputContainer {
-  background-color: lightyellow;
+  background-color: #f37c38;
   padding: 20px;
 }
 
 #outputInner {
   background-color: white;
+  color: #333;
   padding: 10px;
+}
+
+td {
+  border: 1px dashed #ddd;
+  padding: 5px;
 }
